@@ -1,0 +1,3 @@
+# Udacity-Pandas-project
+This project reads three separate csv files in pandas and combines them into one data frame and carries out various operations such as mean, max, standard deviation...
+The result is plotted in a graph using Matplotlib
